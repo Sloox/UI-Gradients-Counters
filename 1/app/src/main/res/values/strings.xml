@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GradientExample</string>
+    <string name="btn_change_gradient">Animate</string>
+    <string name="btn_animate_once">Animate once</string>
+</resources>
