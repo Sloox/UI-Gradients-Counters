@@ -6,7 +6,7 @@ Note: ​you can use API 29 as the min SDK version to simplify your code.
 
 ## 2. Spinning counter effect
 ### In folder 2. The answer to the following question is found 
-​Write some code replicating the “counter effect” shown in the video (attached to the email). This counter component displays a settable number. When tapping on it it starts spinning in a slot machine-like manner. The written code should be simple and easy to integrate in a project.
+​Write some code replicating a “counter effect” (Think of a spinning counter like a jackpot spinner). This counter component displays a settable number. When tapping on it it starts spinning in a slot machine-like manner. The written code should be simple and easy to integrate in a project.
 
 ## Notes
 It is the answers for completing an assignment. It is written in Kotlin to be fairly short and concise. It requires android studio to run.
